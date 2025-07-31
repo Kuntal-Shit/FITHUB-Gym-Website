@@ -1,1 +1,1 @@
-# FITHUB-Gym-Website
+FitHub is a fully responsive and dynamic gym website designed to offer personalized workout and diet plans based on individual user goals. Built using HTML, CSS, JavaScript, PHP, and integrated with a MySQL database, this platform tailors fitness solutions by collecting user-specific data like height, weight, gender, and workout frequency.
